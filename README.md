@@ -13,7 +13,7 @@
 - Survival (Will be in development once Modern Soup has been completed)
 - 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jqntes&show_icons=true&theme=dark)
 
 ### Connect with me
 
