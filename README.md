@@ -17,5 +17,9 @@
 
 ### Connect with me
 
-[![Discord](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg)](https://discord.com/users/jqntesss)
-[![Telegram](https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg)](https://t.me/jqntesDEV)
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="30" height="30"/>
+</a>
+<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="30" height="30"/>
+</a>
